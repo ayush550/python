@@ -77,5 +77,5 @@ for i in range(0, len(questions)+1):
     print("Sorry! wrong Answer")
     break
 
-print("\n\nThanks for Playing")
+print("\nThanks for Playing")
 print(f"\nYou have won Rs.{earnedReward}")    
